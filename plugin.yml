@@ -1,0 +1,8 @@
+name: GamesGUI
+main: callum\games\Main
+author: CallumRawlinson
+version: 1.0.0
+api: 3.0.0
+command:
+ games:
+  description: Opens GameGUI
